@@ -32,8 +32,7 @@ docker run --hostname web-server-master --name web-server -dt -p 80:80 --mount t
 
 <h3>2° Cenário - Cluster Swarm (10 Containers)</h3>
 
-![image](https://user-images.githubusercontent.com/39818426/222214643-7fd097bc-3f1f-4920-92cc-214c36a83883.png)
-
+![image](https://user-images.githubusercontent.com/39818426/222215797-334554f0-ae43-456b-8bfe-2095469d899e.png)
 
 <h4>MASTER</h4>
 
